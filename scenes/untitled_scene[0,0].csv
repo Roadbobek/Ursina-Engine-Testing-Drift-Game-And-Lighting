@@ -1,0 +1,5 @@
+class;position;model;shader;collider_type;texture;collider
+ClassSpawner;Vec3(1.1725162, 0.063999935, -1.0768375);'wireframe_cube';'unlit_shader';'None';;
+WhiteCube;Vec3(0.002552509, 0.063999764, -2.5622925);'cube';'lit_with_shadows_shader';'None';'white_cube';'box'
+WhiteCube;Vec3(1.4062128, 0.063999995, -2.4389648);'cube';'lit_with_shadows_shader';'None';'white_cube';'box'
+WhiteCube;Vec3(1.0352143, 0.064000315, -4.253091);'cube';'lit_with_shadows_shader';'None';'white_cube';'box'
